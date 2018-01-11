@@ -29,7 +29,7 @@ namespace WindowsFormsApp1
             // メソッド：Hide() ⇒ コントロールを非表示にする
             label1.Hide();
             // メソッド：Show() ⇒ メッセージボックスに括弧内のメッセージを表示する
-            MessageBox.Show("さようなら");
+            MessageBox.Show("私は神です");
 
         }
         */
